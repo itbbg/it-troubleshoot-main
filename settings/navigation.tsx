@@ -7,11 +7,11 @@ export const Navigations = [
   },
   {
     title: "Home",
-    href: "https://www.rubixstudios.com.au/",
+    href: "https://www.bbgtradaindonesia.com/",
     external: true,
   }
 ];
 
 export const GitHubLink = {
-  href: "https://github.com/rubixvi/rubix-documents",
+  href: "https://github.com/itbbg/it-troubleshoot-main",
 };
